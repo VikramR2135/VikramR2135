@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikram%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Innovative%20ECE%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikram%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Innovative%20ECE%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikram-r)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/VikramR2135)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/VikramR2135)
-[![Gmail](https://img.shields.io/badge/VikramR2135@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:VikramR2135@gmail.com)
+[![Gmail](https://img.shields.io/badge/Vikram009d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:VikramR2135@gmail.com)
 
 </div>
 
@@ -18,30 +18,8 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class VikramR:
-    def __init__(self):
-        self.name           = "Vikram R"
-        self.location       = "Coimbatore, Tamil Nadu, India 🇮🇳"
-        self.degree         = "B.E - ECE @ Sri Krishna College of Technology (2023–2027)"
-        self.email          = "VikramR2135@gmail.com"
-        self.stack          = [
-            "Python", "Java", "C++", "JavaScript",
-            "React.js", "Node.js", "Express.js",
-            "MongoDB", "MySQL", "Scikit-Learn"
-        ]
-        self.currently_learning = [
-            "Cloud Architecture (AWS / Azure)",
-            "Deep Learning & Neural Networks",
-            "Advanced DSA for Competitive Programming"
-        ]
-        self.fun_fact       = "I built an E-Tongue that tastes ingredients at 90% accuracy 👅🤖"
-
-    def motto(self):
-        return "Build smart. Lead boldly. Learn always. 🚀"
-
-me = VikramR()
-print(me.motto())
+```
+Im a Innovative engineering student passionate about developing smart developing smart technology solutions. Experienced in leading team based projects involving hardware integration and software development. Looking for an opportunity to apply my knowledge and work dedicatedly for the growth of the company.
 ```
 
 <br clear="right"/>
@@ -179,8 +157,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| **[🫦 E-Tongue for Dravya Identification](https://github.com/VikramR2135)** | `Python` `HTML/CSS` `Random Forest` `Scikit-Learn` | Built an E-Tongue prototype that identifies food ingredients by taste signatures via sensor data — achieved **90% classification accuracy** using signal processing & ML |
-| **[📄 ResuMate](https://github.com/VikramR2135)** | `React.js` `Node.js` `Next.js` `Express.js` `MongoDB Atlas` | Cloud-based living resume platform — create, store, update, version-control & share professional profiles dynamically |
+| **[E-Tongue for Dravya Identification](https://github.com/VikramR2135)** | `Python` `HTML/CSS` `Random Forest` `Scikit-Learn` | Built an E-Tongue prototype that identifies food ingredients by taste signatures via sensor data — achieved **90% classification accuracy** using signal processing & ML |
+| **[ResuMate](https://github.com/VikramR2135)** | `React.js` `Node.js` `Next.js` `Express.js` `MongoDB Atlas` | Cloud-based living resume platform — create, store, update, version-control & share professional profiles dynamically |
 
 </div>
 
@@ -224,9 +202,9 @@ print(me.motto())
 ---
 
 <div align="center">
-  <i>⚡ "Build smart. Lead boldly. Learn always." — Vikram R</i>
+  <i> "Build smart. Lead boldly. Learn always." — Vikram R</i>
   <br/><br/>
-  <b>📬 Reach me at:</b> <a href="mailto:VikramR2135@gmail.com">VikramR2135@gmail.com</a> &nbsp;|&nbsp; <b>📞</b> +91 9344981374
+  <b>📬 Reach me at:</b> <a href="mailto:VikramR2135@gmail.com">vikram009d@gmail.com</a> &nbsp;|&nbsp; <b>📞</b> +91 9344981374
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
