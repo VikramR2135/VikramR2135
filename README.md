@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vikram%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Innovative%20ECE%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=180&section=header&text=Vikram%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Innovative%20ECE%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%2FML%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
 
 <div align="center">
 
@@ -8,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikram-r)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/VikramR2135)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/VikramR2135)
-[![Gmail](https://img.shields.io/badge/Vikram009d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:VikramR2135@gmail.com)
+[![Gmail](https://img.shields.io/badge/vikram009d@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:VikramR2135@gmail.com)
 
 </div>
 
@@ -19,7 +21,11 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```
-Im a Innovative engineering student passionate about developing smart developing smart technology solutions. Experienced in leading team based projects involving hardware integration and software development. Looking for an opportunity to apply my knowledge and work dedicatedly for the growth of the company.
+Im a Innovative engineering student passionate about developing
+smart developing smart technology solutions. Experienced in leading
+team based projects involving hardware integration and software development.
+Looking for an opportunity to apply my knowledge and work dedicatedly
+for the growth of the company.
 ```
 
 <br clear="right"/>
@@ -100,13 +106,6 @@ Im a Innovative engineering student passionate about developing smart developing
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VikramR2135&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💼 Work Experience
 
